@@ -1,0 +1,2 @@
+# BloodConnect-A-Full-Stack-MERN-Application-Dockerized-for-Seamless-Deployment.
+BloodConnect offering a digital bridge that automates donor-recipient matching, reducing the time spent on logistics and focusing on immediate medical response. Built using the MERN stack (MongoDB, Express, React, Node.js),to ensure seamless deployment and environment consistency, the entire application is containerized using Docker.
